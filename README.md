@@ -3,13 +3,9 @@
 MCP project to connect Claude with X API. Built on top of [X API v2](https://developer.x.com/en/docs/x-api)
 
 # Demo
-![video-demo](https://github.com/Lyonsupernova/mcp-x/blob/main/media/demo.mp4)
+[![video-demo](https://github.com/Lyonsupernova/mcp-x/blob/main/media/demo.mp4)](https://github.com/user-attachments/assets/4e54a6d9-8c90-4d2a-a24b-f19995a1f1a7)
 
 # Supported Features
-
-https://github.com/user-attachments/assets/4e54a6d9-8c90-4d2a-a24b-f19995a1f1a7
-
-
 - Post tweets
 
 # Configuration
