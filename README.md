@@ -2,6 +2,9 @@
 
 MCP project to connect Claude with X API. Built on top of [X API v2](https://developer.x.com/en/docs/x-api)
 
+# Demo
+![video-demo](https://github.com/Lyonsupernova/mcp-x/blob/main/media/demo.mp4)
+
 # Supported Features
 - Post tweets
 
@@ -11,14 +14,14 @@ MCP project to connect Claude with X API. Built on top of [X API v2](https://dev
 - Go to [X Developer Platform](https://developer.x.com/en) and login with your X account
 - Start with Basic plan
 - Store the Access Token, Secret, Client ID, Client Secret and Bearer token
+Docs: [x-api-start](https://developer.x.com/en/docs/x-api/getting-started/getting-access-to-the-x-api)
 
 ## Set up 
-On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
-On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
+- On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
+- On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 
- ```json
-
+```json
 {
   "mcpServers": {
     "x": {
@@ -40,8 +43,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
     }
   }
 }
-
-  ```
+```
 
 ## TODO
 
